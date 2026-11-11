@@ -1,15 +1,10 @@
-Malware analysis with YARA
-Objective
-The Malware Analysis Lab project aimed to create a controlled environment for detecting, analyzing, and classifying malicious software using signature-based and intelligence-driven techniques. The primary focus was to develop and apply custom YARA rules for malware identification and to leverage VirusTotal for threat intelligence enrichment and behavioral analysis. This hands-on experience was designed to simulate real-world malware investigation workflows, enhancing understanding of malware detection, rule-based analysis, and threat correlation essential for proactive cybersecurity operations.
+# Objective
+The objective of this lab is to simulate a security incident and handle it through the full incident response lifecycle (NIST SP 800-61): detect and analyze the threat, contain it, eradicate it, recover affected systems, and document lessons learned. By the end of the lab, I will elaborate a structured IR plan under realistic conditions, make evidence-based decisions at each phase, and produce the documentation a security team would expect.
 
-Skills Learned
-YARA rule creation, review Yara syntax such as rule, meta, strings and conditions
-Create and test YARA rules based on malware characteristics
-Use VirusTotal to analyze file hashes, URLs, and domains for malicious indicators
-Correlate YARA rule matches with VirusTotal metadata.
-Tools Used
-YARA
-VirusTotal
-Nano Editor
-Linux Operating System
-Steps
+# Skills Learned
+- Threat Hunting with Microsoft Defender XDR
+- KQL and Events Correlation
+- NIST incident Response Framework
+- 
+
+
